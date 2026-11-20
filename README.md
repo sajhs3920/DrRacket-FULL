@@ -28,7 +28,7 @@ The repository serves as a central reference for lecture materials, Racket progr
 | 15 | Generative Recursion and Introduction to Lambda | [Open Lecture](https://cs110.students.ubc.ca/lectures/lecture-15.html) |
 | 16 | Search Problems | [Open Lecture](https://cs110.students.ubc.ca/lectures/lecture-16.html) |
 | 17 | Accumulators | [Open Lecture](https://cs110.students.ubc.ca/lectures/lecture-18.html) |
-| 19 | SAmple Paper | [Open Lecture](https://cs110.students.ubc.ca/lectures/lecture-19.html) |
+| 19 | Sample Paper | [Open Lecture](https://cs110.students.ubc.ca/lectures/lecture-19.html) |
 
 
 ---
@@ -57,6 +57,4 @@ The repository serves as a central reference for lecture materials, Racket progr
 **Total Lectures:** 23  
 **Primary Programming Language:** Racket
 
----
 
-*All lecture links direct to the official U
