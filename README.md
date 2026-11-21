@@ -13,8 +13,8 @@ The repository serves as a central reference for lecture materials, Racket progr
 |:---:|---|:---:|
 | 00 | SPD CHECKLIST | [Open Lecture](https://github.com/sajhs3920/DrRacket-SPD-Checklist) |
 | 01 | Course Overview, BSL Expressions, Functions | [Open Lecture](https://github.com/sajhs3920/DrRacket-Beginning-Student-Language/tree/main) |
-| 02 | How to Design Functions (HtDF Recipe) | [Open Lecture](https://cs110.students.ubc.ca/lectures/lecture-02.html) |
-| 03 | How to Design Data (HtDD Recipe) | [Open Lecture](https://cs110.students.ubc.ca/lectures/lecture-03.html) |
+| 02 | How to Design Functions (HtDF Recipe) | [Open Lecture](https://github.com/sajhs3920/DrRacket-How-to-Design-Funcation-and-Data-HtDf-HtDd) |
+| 03 | How to Design Data (HtDD Recipe) | [Open Lecture](https://github.com/sajhs3920/DrRacket-How-to-Design-Funcation-and-Data-HtDf-HtDd) |
 | 04 | Interactive Programs, big-bang and HtDW Recipe | [Open Lecture](https://cs110.students.ubc.ca/lectures/lecture-04.html) |
 | 05 | Compound Data, Extending an Existing World Program | [Open Lecture](https://cs110.students.ubc.ca/lectures/lecture-05.html) |
 | 06 | Arbitrary-Sized Data, Self Reference, Natural Recursion | [Open Lecture](https://cs110.students.ubc.ca/lectures/lecture-06.html) |
