@@ -11,6 +11,8 @@ The repository serves as a central reference for lecture materials, Racket progr
 
 | Lecture | Topic | Resources |
 |:---:|---|:---:|
+
+| 00 | SPD CHECKLIST | [Open Lecture](https://github.com/sajhs3920/DrRacket-SPD-Checklist) |
 | 01 | Course Overview, BSL Expressions, Functions | [Open Lecture](https://github.com/sajhs3920/DrRacket-Beginning-Student-Language/tree/main) |
 | 02 | How to Design Functions (HtDF Recipe) | [Open Lecture](https://cs110.students.ubc.ca/lectures/lecture-02.html) |
 | 03 | How to Design Data (HtDD Recipe) | [Open Lecture](https://cs110.students.ubc.ca/lectures/lecture-03.html) |
