@@ -1,4 +1,4 @@
-# DrRacket-FULL CHPATER LECTURE
+# DrRacket-FuLL Lecture
 
 
 # UBC CPSC 110 – Lecture Resources
