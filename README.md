@@ -42,15 +42,6 @@ The repository serves as a central reference for lecture materials, Racket progr
 
 ### Official Documentation
 
-| Resource | Link |
-|---|---|
-| UBC CPSC 110 | [Course Website](https://cs110.students.ubc.ca/) |
-| DrRacket | [Download](https://download.racket-lang.org/) |
-| Racket Documentation | [Documentation](https://docs.racket-lang.org/) |
-| DrRacket Documentation | [User Guide](https://docs.racket-lang.org/drracket/) |
-| Systematic Program Design | [Design Recipes](https://cs110.students.ubc.ca/reference/design-recipes.html) |
-
-
 **Course:** CPSC 110 – Computation, Programs, and Programming  
 **University:** University of British Columbia (UBC)  
 **Campus:** Vancouver  
