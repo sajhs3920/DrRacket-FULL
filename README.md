@@ -15,11 +15,11 @@ The repository serves as a central reference for lecture materials, Racket progr
 | 01 | Course Overview, BSL Expressions, Functions | [Open Lecture](https://github.com/sajhs3920/DrRacket-Beginning-Student-Language/tree/main) |
 | 02 | How to Design Functions (HtDF Recipe) | [Open Lecture](https://github.com/sajhs3920/DrRacket-How-to-Design-Funcation-and-Data-HtDf-HtDd) |
 | 03 | How to Design Data (HtDD Recipe) | [Open Lecture](https://github.com/sajhs3920/DrRacket-How-to-Design-Funcation-and-Data-HtDf-HtDd) |
-| 04 | Interactive Programs, big-bang and HtDW Recipe | [Open Lecture]() |
-| 05 | Compound Data, Extending an Existing World Program | [Open Lecture]() |
-| 06 | Arbitrary-Sized Data, Self Reference, Natural Recursion | [Open Lecture]() |
-| 07 | Simple Reference in Types and Natural Helpers | [Open Lecture]() |
-| 08 | Recursive Functions on Naturals; Three More Helper Rules | [Open Lecture]() |
+| 04 | Interactive Programs, big-bang and HtDW Recipe | [Open Lecture](https://github.com/sajhs3920/DrRacket-Interactive-programs-big-bang-and-the-HtDW-recipe) |
+| 05 | Compound Data, Extending an Existing World Program | [Open Lecture](https://github.com/sajhs3920/DrRacket-Compound-data-extending-an-existing-world-program) |
+| 06 | Arbitrary-Sized Data, Self Reference, Natural Recursion | [Open Lecture](https://github.com/sajhs3920/DrRacket-Arbitrary-sized-data-self-reference-and-natural-recursion) |
+| 07 | Simple Reference in Types and Natural Helpers | [Open Lecture](https://github.com/sajhs3920/DrRacket-Simple-reference-in-types-and-natural-helpers) |
+| 08 | Recursive Functions on Naturals; Three More Helper Rules | [Open Lecture](https://github.com/sajhs3920/DrRacket-Recursive-functions-on-naturals-three-more-helper-rules) |
 | 09 | Fixed Arity Trees | [Open Lecture]() |
 | 10 | Mutual Reference and Mutual Recursion | [Open Lecture]() |
 | 11 | 2 One-Of | [Open Lecture]() |
