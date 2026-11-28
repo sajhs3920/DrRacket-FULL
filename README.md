@@ -15,21 +15,21 @@ The repository serves as a central reference for lecture materials, Racket progr
 | 01 | Course Overview, BSL Expressions, Functions | [Open Lecture](https://github.com/sajhs3920/DrRacket-Beginning-Student-Language/tree/main) |
 | 02 | How to Design Functions (HtDF Recipe) | [Open Lecture](https://github.com/sajhs3920/DrRacket-How-to-Design-Funcation-and-Data-HtDf-HtDd) |
 | 03 | How to Design Data (HtDD Recipe) | [Open Lecture](https://github.com/sajhs3920/DrRacket-How-to-Design-Funcation-and-Data-HtDf-HtDd) |
-| 04 | Interactive Programs, big-bang and HtDW Recipe | [Open Lecture](https://cs110.students.ubc.ca/lectures/lecture-04.html) |
-| 05 | Compound Data, Extending an Existing World Program | [Open Lecture](https://cs110.students.ubc.ca/lectures/lecture-05.html) |
-| 06 | Arbitrary-Sized Data, Self Reference, Natural Recursion | [Open Lecture](https://cs110.students.ubc.ca/lectures/lecture-06.html) |
-| 07 | Simple Reference in Types and Natural Helpers | [Open Lecture](https://cs110.students.ubc.ca/lectures/lecture-07.html) |
-| 08 | Recursive Functions on Naturals; Three More Helper Rules | [Open Lecture](https://cs110.students.ubc.ca/lectures/lecture-08.html) |
-| 09 | Fixed Arity Trees | [Open Lecture](https://cs110.students.ubc.ca/lectures/lecture-09.html) |
-| 10 | Mutual Reference and Mutual Recursion | [Open Lecture](https://cs110.students.ubc.ca/lectures/lecture-10.html) |
-| 11 | 2 One-Of | [Open Lecture](https://cs110.students.ubc.ca/lectures/lecture-11.html) |
-| 12 | Local Expressions | [Open Lecture](https://cs110.students.ubc.ca/lectures/lecture-12.html) |
-| 13 | Abstraction and Polymorphic Functions | [Open Lecture](https://cs110.students.ubc.ca/lectures/lecture-13.html) |
-| 14 | Fold Functions | [Open Lecture](https://cs110.students.ubc.ca/lectures/lecture-14.html) |
-| 15 | Generative Recursion and Introduction to Lambda | [Open Lecture](https://cs110.students.ubc.ca/lectures/lecture-15.html) |
-| 16 | Search Problems | [Open Lecture](https://cs110.students.ubc.ca/lectures/lecture-16.html) |
-| 17 | Accumulators | [Open Lecture](https://cs110.students.ubc.ca/lectures/lecture-18.html) |
-| 19 | Sample Paper | [Open Lecture](https://cs110.students.ubc.ca/lectures/lecture-19.html) |
+| 04 | Interactive Programs, big-bang and HtDW Recipe | [Open Lecture]() |
+| 05 | Compound Data, Extending an Existing World Program | [Open Lecture]() |
+| 06 | Arbitrary-Sized Data, Self Reference, Natural Recursion | [Open Lecture]() |
+| 07 | Simple Reference in Types and Natural Helpers | [Open Lecture]() |
+| 08 | Recursive Functions on Naturals; Three More Helper Rules | [Open Lecture]() |
+| 09 | Fixed Arity Trees | [Open Lecture]() |
+| 10 | Mutual Reference and Mutual Recursion | [Open Lecture]() |
+| 11 | 2 One-Of | [Open Lecture]() |
+| 12 | Local Expressions | [Open Lecture]() |
+| 13 | Abstraction and Polymorphic Functions | [Open Lecture]() |
+| 14 | Fold Functions | [Open Lecture]() |
+| 15 | Generative Recursion and Introduction to Lambda | [Open Lecture]() |
+| 16 | Search Problems | [Open Lecture]() |
+| 17 | Accumulators | [Open Lecture]() |
+| 19 | Sample Paper | [Open Lecture]() |
 
 
 ---
